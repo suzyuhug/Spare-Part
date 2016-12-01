@@ -69,9 +69,9 @@ Partial Class FrmMain
         'PictureBox1
         '
         Me.PictureBox1.Image = Global.Spare_Part.My.Resources.Resources.Flex_RGB_Med_tm
-        Me.PictureBox1.Location = New System.Drawing.Point(608, 426)
+        Me.PictureBox1.Location = New System.Drawing.Point(597, 417)
         Me.PictureBox1.Name = "PictureBox1"
-        Me.PictureBox1.Size = New System.Drawing.Size(103, 56)
+        Me.PictureBox1.Size = New System.Drawing.Size(114, 65)
         Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
         Me.PictureBox1.TabIndex = 4
         Me.PictureBox1.TabStop = False
